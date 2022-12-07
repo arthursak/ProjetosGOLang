@@ -1,0 +1,12 @@
+23/10/2022 20:16:02 - https://www.alura.com.br - Online: true
+23/10/2022 20:16:02 - https://www.intelbras.com.br - Online: true
+23/10/2022 20:16:02 - https://www.github.com - Online: true
+23/10/2022 20:16:03 - https://www.google.com - Online: true
+23/10/2022 20:16:08 - https://www.alura.com.br - Online: true
+23/10/2022 20:16:08 - https://www.intelbras.com.br - Online: true
+23/10/2022 20:16:08 - https://www.github.com - Online: true
+23/10/2022 20:16:08 - https://www.google.com - Online: true
+23/10/2022 20:16:14 - https://www.alura.com.br - Online: true
+23/10/2022 20:16:14 - https://www.intelbras.com.br - Online: true
+23/10/2022 20:16:14 - https://www.github.com - Online: true
+23/10/2022 20:16:14 - https://www.google.com - Online: true
